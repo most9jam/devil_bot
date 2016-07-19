@@ -1,0 +1,20 @@
+[ Tue Jun 21 12:52:01 2016 ]=>  Jozef [163509666] added SuperGroup
+ 
+[ Tue Jun 21 12:53:25 2016 ]=>  Jozef [163509666] set: [128610983] as owner by reply
+ 
+[ Tue Jun 21 12:54:34 2016 ]=>  Jozef [163509666] obtained id for: [128610983]
+ 
+[ Tue Jun 21 13:12:09 2016 ]=>  رقمي الاسيه  [128610983] requested SuperGroup ID
+ 
+[ Tue Jun 21 13:27:38 2016 ]=>  Jozef [163509666] deleted a message by reply
+ 
+[ Tue Jun 21 13:30:34 2016 ]=>  رقمي الاسيه  [128610983] requested SuperGroup ID
+ 
+[ Tue Jun 21 15:22:55 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Tue Jun 21 16:32:27 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Tue Jun 21 16:32:36 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Wed Jun 22 17:41:05 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 

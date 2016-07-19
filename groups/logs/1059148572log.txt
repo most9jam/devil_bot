@@ -1,0 +1,72 @@
+[ Thu Jul  7 13:28:17 2016 ]=>  Jozef [163509666] added SuperGroup
+ 
+[ Fri Jul  8 18:17:02 2016 ]=>  Jozef Admin [156315344] added to the SuperGroup by [ 163509666 ]
+ 
+[ Fri Jul  8 18:17:02 2016 ]=>  Jozef Admin [156315344] added to the SuperGroup by [ 163509666 ]
+ 
+[ Fri Jul  8 18:17:02 2016 ]=>  Jozef Admin [156315344] added to the SuperGroup by [ 163509666 ]
+ 
+[ Fri Jul  8 19:33:55 2016 ]=>  Ahmadrock [156315344] set SuperGroup to: mute Audio
+ 
+[ Fri Jul  8 19:35:03 2016 ]=>  Ahmadrock [156315344] set SuperGroup to: unmute Audio
+ 
+[ Mon Jul 11 15:46:56 2016 ]=>  Jozef [163509666] added SuperGroup
+ 
+[ Mon Jul 11 15:52:00 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Mon Jul 11 16:50:33 2016 ]=>  Ahmadrock [156315344] Used /superhelp
+ 
+[ Mon Jul 11 22:45:42 2016 ]=>  Jozef [163509666] Used /chatlist
+ 
+[ Tue Jul 12 13:29:47 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Tue Jul 12 17:10:40 2016 ]=>  Jozef [163509666] promoted @..
+ 
+[ Tue Jul 12 17:11:38 2016 ]=>  Ahmadrock [156315344] promoted @Alxander11
+ 
+[ Thu Jul 14 12:02:47 2016 ]=>  ¥όüŠí₣ Admin [146024533] added to the SuperGroup by [ 163509666 ]
+ 
+[ Thu Jul 14 12:02:48 2016 ]=>  ¥όüŠí₣ Admin [146024533] added to the SuperGroup by [ 163509666 ]
+ 
+[ Thu Jul 14 12:02:48 2016 ]=>  ¥όüŠí₣ Admin [146024533] added to the SuperGroup by [ 163509666 ]
+ 
+[ Thu Jul 14 19:06:43 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Thu Jul 14 19:07:04 2016 ]=>  Jozef [163509666] Used /chatlist
+ 
+[ Thu Jul 14 19:09:33 2016 ]=>  ٵﭠ̯ﻐﯿﺭﭠ̯🔱ٵζﻤڋ_ﻤٵﯿسـّﭠ̯ﺭۋ_🔱🙂Vł₱_|₮ę₭šâś|| [138881125] Used /chatlist
+ 
+[ Fri Jul 15 10:48:41 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Sat Jul 16 22:19:30 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Sat Jul 16 22:32:23 2016 ]=>  Jozef [163509666] renamed SuperGroup to: Devil team
+ 
+[ Sat Jul 16 22:32:23 2016 ]=>  Jozef [163509666] renamed SuperGroup to: Devil team
+ 
+[ Sat Jul 16 22:32:24 2016 ]=>  Jozef [163509666] renamed SuperGroup to: Devil team
+ 
+[ Sun Jul 17 07:09:11 2016 ]=>  ٵﭠ̯ﻐﯿﺭﭠ̯🔱ٵζﻤڋ ﻤٵﯿسـّﭠ̯ﺭۋ 🔱🙂Vł₱ |₮ę₭šâś|| [138881125] requested SuperGroup ID
+ 
+[ Sun Jul 17 16:28:43 2016 ]=>  Jozef [163509666] requested ID for: @ahmed1998A
+ 
+[ Sun Jul 17 16:29:32 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Sun Jul 17 16:29:33 2016 ]=>  ٵﭠ̯ﻐﯿﺭﭠ̯🔱ٵζﻤڋ ﻤٵﯿسـّﭠ̯ﺭۋ 🔱🙂Vł₱ |₮ę₭šâś|| [138881125] requested SuperGroup ID
+ 
+[ Sun Jul 17 16:30:16 2016 ]=>  ٵﭠ̯ﻐﯿﺭﭠ̯🔱ٵζﻤڋ ﻤٵﯿسـّﭠ̯ﺭۋ 🔱🙂Vł₱ |₮ę₭šâś|| [138881125] requested SuperGroup ID
+ 
+[ Sun Jul 17 16:32:56 2016 ]=>  ٵﭠ̯ﻐﯿﺭﭠ̯🔱ٵζﻤڋ ﻤٵﯿسـّﭠ̯ﺭۋ 🔱🙂Vł₱ |₮ę₭šâś|| [138881125] requested SuperGroup ID
+ 
+[ Sun Jul 17 16:32:59 2016 ]=>  Jozef [163509666] requested ID for: @ahmed1998A
+ 
+[ Sun Jul 17 16:33:18 2016 ]=>  Jozef [163509666] requested ID for: @ahmed1998A
+ 
+[ Sun Jul 17 16:33:26 2016 ]=>  Jozef [163509666] requested ID for: @IQ_S69
+ 
+[ Sun Jul 17 16:35:23 2016 ]=>  ٵﭠ̯ﻐﯿﺭﭠ̯🔱ٵζﻤڋ ﻤٵﯿسـّﭠ̯ﺭۋ 🔱🙂Vł₱ |₮ę₭šâś|| [138881125] requested SuperGroup ID
+ 
+[ Sun Jul 17 16:35:44 2016 ]=>  ٵﭠ̯ﻐﯿﺭﭠ̯🔱ٵζﻤڋ ﻤٵﯿسـّﭠ̯ﺭۋ 🔱🙂Vł₱ |₮ę₭šâś|| [138881125] requested ID for: @Jozef3
+ 
+[ Sun Jul 17 20:47:39 2016 ]=>  ٵﭠ̯ﻐﯿﺭﭠ̯🔱ٵζﻤڋ ﻤٵﯿسـّﭠ̯ﺭۋ 🔱🙂Vł₱ |₮ę₭šâś|| [138881125] requested SuperGroup ID
+ 

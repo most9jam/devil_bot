@@ -1,0 +1,110 @@
+[ Thu Jun 23 11:54:03 2016 ]=>  Jozef [163509666] added SuperGroup
+ 
+[ Thu Jun 23 11:55:06 2016 ]=>  Jozef [163509666] set: [139318848] as owner by reply
+ 
+[ Thu Jun 23 11:57:09 2016 ]=>  Jozef [163509666] set SuperGroup to: mute Photo
+ 
+[ Thu Jun 23 12:01:24 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] requested group modlist
+ 
+[ Thu Jun 23 12:04:44 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked sticker posting
+ 
+[ Thu Jun 23 12:05:03 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Gifs
+ 
+[ Thu Jun 23 12:36:50 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Thu Jun 23 12:59:24 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] unlocked link posting
+ 
+[ Thu Jun 23 13:21:51 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] unlocked sticker posting
+ 
+[ Thu Jun 23 13:29:24 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked sticker posting
+ 
+[ Thu Jun 23 13:34:03 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] requested SuperGroup settings 
+ 
+[ Thu Jun 23 14:53:49 2016 ]=>  Jozef [163509666] requested group modlist
+ 
+[ Thu Jun 23 14:54:43 2016 ]=>  Grandson of Saddam🔫 [198465386] requested group modlist
+ 
+[ Fri Jun 24 10:21:38 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Text
+ 
+[ Fri Jun 24 10:22:24 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: unmute message
+ 
+[ Fri Jun 24 10:49:38 2016 ]=>  ليرحلمنرحلفقدرحلالاغلى @HAMODEzoro [235725374] kicked for #spam
+ 
+[ Fri Jun 24 12:55:51 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Text
+ 
+[ Fri Jun 24 12:59:49 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: unmute message
+ 
+[ Fri Jun 24 13:38:46 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Photo
+ 
+[ Fri Jun 24 14:11:50 2016 ]=>  وحــيــدهكاالقمــ🌚ــر @ScTvB [174130138] kicked for #spam
+ 
+[ Fri Jun 24 14:21:04 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] unlocked sticker posting
+ 
+[ Fri Jun 24 23:13:54 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Fri Jun 24 23:32:46 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] unlocked link posting
+ 
+[ Fri Jun 24 23:33:29 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Sat Jun 25 00:23:11 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: unmute Photo
+ 
+[ Sat Jun 25 00:47:37 2016 ]=>  ||🎈||BAKọ̥ọ̥ے̲̣̣̥e̲̣̥||Kɪ̣̝̇n̥̥̲̣̥Ǧ̩̥||🎈|| محضور دز ١٠ رسائل [118374502] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Jun 25 00:53:55 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] requested SuperGroup settings 
+ 
+[ Sat Jun 25 00:56:20 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked spam 
+ 
+[ Sat Jun 25 00:56:41 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] unlocked spam
+ 
+[ Sat Jun 25 01:14:18 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Sat Jun 25 01:24:26 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] unlocked link posting
+ 
+[ Sat Jun 25 01:25:31 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Sat Jun 25 01:31:54 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] unlocked link posting
+ 
+[ Sat Jun 25 01:32:01 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Photo
+ 
+[ Sat Jun 25 01:43:07 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Sat Jun 25 01:45:33 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Text
+ 
+[ Sat Jun 25 01:50:49 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: unmute message
+ 
+[ Sat Jun 25 02:00:52 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: unmute Photo
+ 
+[ Sat Jun 25 02:08:48 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Sat Jun 25 02:08:53 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Photo
+ 
+[ Sat Jun 25 02:09:00 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Text
+ 
+[ Sat Jun 25 02:09:59 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: unmute message
+ 
+[ Sat Jun 25 02:17:49 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Sat Jun 25 02:18:26 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Gifs
+ 
+[ Sat Jun 25 02:18:37 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Audio
+ 
+[ Sat Jun 25 03:23:14 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Sat Jun 25 03:26:12 2016 ]=>  Yousif ALtikrity Admin [190385827] added to the SuperGroup by [ 131028061 ]
+ 
+[ Sat Jun 25 03:26:12 2016 ]=>  Yousif ALtikrity Admin [190385827] added to the SuperGroup by [ 131028061 ]
+ 
+[ Sat Jun 25 03:33:21 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] deleted user user#id187214885
+ 
+[ Sat Jun 25 04:10:50 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Tue Jun 28 14:16:14 2016 ]=>  Yّousif[163509666] set [139318848] as owner by username
+ 
+[ Tue Jun 28 14:43:16 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] requested SuperGroup ID
+ 
+[ Tue Jun 28 14:43:56 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] locked link posting 
+ 
+[ Tue Jun 28 14:44:07 2016 ]=>  ♈أّلَرئأّ🔛سِـةّ🔥 [139318848] set SuperGroup to: mute Photo
+ 
+[ Tue Jun 28 14:45:39 2016 ]=>  ابہۣۖہۣہﹻۣۗۗۗﹻـۂن ٰۣۗۗۗ  ☜🅰☞ الرمہۣۧۚہۣۣۖہٰۣۗۗۗﹻۣۗۗۗـﹻۂہۧادي [133705693] joined and Service Msg deleted (#spam name)
+ 

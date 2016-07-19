@@ -1,0 +1,4 @@
+[ Thu Jun 30 12:27:33 2016 ]=>  Jozef [163509666] used /id 
+ 
+[ Thu Jun 30 12:30:11 2016 ]=>  Jozef [163509666] left using kickme 
+ 

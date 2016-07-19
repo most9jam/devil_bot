@@ -1,0 +1,26 @@
+[ Sat Jul 16 22:09:57 2016 ]=>  Jozef [163509666] added SuperGroup
+ 
+[ Sat Jul 16 22:10:09 2016 ]=>  Jozef[163509666] set [199961286] as owner by username
+ 
+[ Sat Jul 16 22:10:48 2016 ]=>  Φ₥Ẵℜ Δ َ [199961286] locked link posting 
+ 
+[ Sat Jul 16 22:10:54 2016 ]=>  Φ₥Ẵℜ Δ َ [199961286] set SuperGroup to: mute Photo
+ 
+[ Sat Jul 16 22:11:00 2016 ]=>  Φ₥Ẵℜ Δ َ [199961286] set SuperGroup to: mute Video
+ 
+[ Sat Jul 16 22:11:09 2016 ]=>  Φ₥Ẵℜ Δ َ [199961286] set SuperGroup to: mute Gifs
+ 
+[ Sat Jul 16 22:11:17 2016 ]=>  Φ₥Ẵℜ Δ َ [199961286] locked sticker posting
+ 
+[ Sat Jul 16 22:35:03 2016 ]=>  Φ₥Ẵℜ Δ َ [199961286] locked link posting 
+ 
+[ Sat Jul 16 22:35:13 2016 ]=>  Φ₥Ẵℜ Δ َ [199961286] locked spam 
+ 
+[ Sat Jul 16 22:35:25 2016 ]=>  Φ₥Ẵℜ Δ َ [199961286] locked spam 
+ 
+[ Sun Jul 17 14:10:05 2016 ]=>  Φ₥Ẵℜ🎵⭐ َ [199961286] locked link posting 
+ 
+[ Sun Jul 17 15:21:27 2016 ]=>  Φ₥Ẵℜ🎵⭐ َ [199961286] locked spam 
+ 
+[ Mon Jul 18 13:17:54 2016 ]=>  Φ₥Ẵℜ🎵⭐ َ [199961286] locked spam 
+ 

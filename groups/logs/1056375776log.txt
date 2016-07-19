@@ -1,0 +1,4 @@
+[ Tue Jun 28 05:49:10 2016 ]=>  سيروان [214707332] added SuperGroup
+ 
+[ Tue Jun 28 05:54:38 2016 ]=>  سيروان [214707332] set: [224959004] as owner by reply
+ 

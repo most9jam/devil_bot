@@ -1,0 +1,30 @@
+[ Wed Jun 29 13:47:05 2016 ]=>  Yّousif [163509666] added SuperGroup
+ 
+[ Wed Jun 29 23:00:40 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Thu Jun 30 11:07:57 2016 ]=>  Jozef [163509666] Used /chatlist
+ 
+[ Thu Jun 30 12:17:05 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Thu Jun 30 12:18:42 2016 ]=>  Jozef [163509666] used pm help
+ 
+[ Thu Jun 30 12:20:04 2016 ]=>  Jozef [163509666] Used /superhelp
+ 
+[ Thu Jun 30 12:20:35 2016 ]=>  Jozef [163509666] requested SuperGroup Admins list
+ 
+[ Thu Jun 30 12:38:11 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Thu Jun 30 12:40:09 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Thu Jun 30 12:40:22 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 
+[ Thu Jun 30 12:51:24 2016 ]=>  Jozef [163509666] requested group stats 
+ 
+[ Thu Jun 30 12:52:55 2016 ]=>  Jozef [163509666] requested group stats 
+ 
+[ Thu Jun 30 13:58:05 2016 ]=>  Jozef [163509666] requested ID for: @jozef3
+ 
+[ Thu Jun 30 14:07:06 2016 ]=>  Jozef [163509666] promoted @devill2
+ 
+[ Thu Jun 30 18:28:59 2016 ]=>  Jozef [163509666] requested SuperGroup ID
+ 

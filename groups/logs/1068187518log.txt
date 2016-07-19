@@ -1,0 +1,8 @@
+[ Wed Jun 29 11:34:21 2016 ]=>  سيروان [214707332] added SuperGroup
+ 
+[ Wed Jun 29 11:34:30 2016 ]=>  سيروان[214707332] set [129712281] as owner by username
+ 
+[ Wed Jun 29 11:35:33 2016 ]=>  سيروان [214707332] left via kickme
+ 
+[ Wed Jun 29 11:35:39 2016 ]=>  سيروان [214707332] deleted user user#id214707332
+ 
